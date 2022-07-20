@@ -46,6 +46,6 @@
 <a href="https://www.linkedin.com/in/charith-dhananjaya-345017191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ma_charith_dhananjaya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
 <a href="charithdhananjaya01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
- <a href="https://www.facebook.com/people/Scharithdhananjaya.ma/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
+ <a href="https://www.facebook.com/charithdhananjaya.ma"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook"></a>
 </p>
 
