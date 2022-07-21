@@ -38,6 +38,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithDhananjaya&theme=buefy&layout=compact" />
 </a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharithDhananjaya&" alt="CharithDhananjaya" /></p>
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
