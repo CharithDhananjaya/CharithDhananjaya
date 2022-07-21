@@ -33,7 +33,8 @@
 
 <br/>
 
-> Tools, languages, and other things that I like to work with.
+<h2>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br/>
 
 <table>
   <tr>
